@@ -308,6 +308,8 @@ button {
   padding: 70px 8%;
   position: relative;
   z-index: 2;
+  background: linear-gradient(135deg, #e8fff0, #caffdf);
+  
 }
 .about-title {
   text-align: center;
@@ -329,7 +331,7 @@ button {
   height: 3px;
   margin: 14px auto 0;
 
-  background: rgba(255,255,255,0.35);
+  background: rgba(0, 0, 0, 0.762);
   border-radius: 10px;
 }
 
@@ -451,7 +453,7 @@ button {
   height: 3px;
   margin: 14px auto 0;
 
-  background: rgba(255,255,255,0.35);
+  background: rgba(0, 0, 0, 0.704);
   border-radius: 10px;
 }
 .expect-title-h4{
@@ -717,7 +719,7 @@ button {
   height: 3px;
   margin: 14px auto 0;
 
-  background: rgba(255,255,255,0.35);
+  background: rgba(16, 1, 1, 0.77);
   border-radius: 10px;
 }
 
@@ -940,7 +942,7 @@ button {
   width: 60px;
   height: 3px;
   margin: 14px auto 0;
-  background: rgba(255,255,255,0.35);
+  background: rgba(6, 0, 0, 0.815);
   border-radius: 10px;
 }
 .themes-sub {
@@ -1116,13 +1118,7 @@ button {
 }
 
 .divider {
-  display: block;
-  width: 90px;
-  height: 4px;
-  background: linear-gradient(90deg, #00ff9949, #00c8965e);
-  margin: 14px auto 0;
-  border-radius: 20px;
-  box-shadow: 0 0 12px rgba(0, 255, 150, 0.6);
+  display: none;
 }
 
 /* ===============================
@@ -1313,7 +1309,7 @@ button {
   height: 4px;
   margin: 14px auto 0;
   border-radius: 999px;
-  background: linear-gradient(90deg, #00ff99, #00c6ff);
+  background: #000;
 }
 
 /* ===============================
@@ -1449,12 +1445,7 @@ button {
 }
 
 .contact-divider {
-  display: block;
-  width: 120px;
-  height: 4px;
-  margin: 14px auto 0;
-  border-radius: 999px;
-  background: linear-gradient(90deg, #00ff99, #00c6ff);
+  display: none;
 }
 
 /* GRID */
