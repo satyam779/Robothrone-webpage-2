@@ -266,8 +266,8 @@ button {
 ================================ */
 
 .resource-card {
-  background: rgba(255,255,255,0.06);
-  border: 2px solid rgba(255, 255, 255, 0.329);
+  background: rgba(255, 255, 255, 0.745);
+  border: 2px solid rgba(33, 2, 2, 0.329);
   border-radius: 12px;
   padding: 22px 18px;
   text-align: center;
